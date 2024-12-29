@@ -127,7 +127,3 @@ If you have any questions or feedback, feel free to contact me at info.himelcse@
 ---
 
 Happy coding! 😺
-
----
-
-Feel free to modify this README file as per your requirements. If you have any further questions or need additional help, let me know!
