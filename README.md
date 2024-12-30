@@ -1,6 +1,7 @@
 # ML-Exercise-Income-Dataset-Regression-Metrics
 
-This repository contains an exercise on regression metrics using an income dataset to predict happiness. The exercise includes data preprocessing, model training, evaluation, and visualization.
+This repository contains an exercise on regression metrics using an income dataset to predict happiness. The exercise includes data preprocessing, model training, evaluation, and visualization.   
+
 ![image](https://github.com/user-attachments/assets/a5b61eb6-3238-436d-9872-fd8b0cef69fa)
 
 ## Overview
